@@ -1,3 +1,3 @@
-# Gravity Wiz Batcher
+# Gravity Wiz Batcher: Reprocess Calculations
 
-A plugin template for bulk processing items in batches.
+Use this plugin to reprocess calculations for all entries for a given form.
